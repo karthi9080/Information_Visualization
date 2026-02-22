@@ -1,0 +1,375 @@
+Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure,Heart Rate,Daily Steps,Sleep Disorder,Systolic_BP,Diastolic_BP,Age Group,Sleep Adequacy,Steps Group,Stress Category,Meets 7h Sleep,High Stress,Active (>=7.5k steps),Region
+1,Male,27,Software Engineer,6.1,6,42,6,Overweight,126/83,77,4200,None,126,83,20s,<7h (Low),<5k,Medium,False,False,False,Alabama
+2,Male,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,None,125,80,20s,<7h (Low),10k+,High,False,True,True,Alabama
+3,Male,28,Doctor,6.2,6,60,8,Normal,125/80,75,10000,None,125,80,20s,<7h (Low),10k+,High,False,True,True,Alabama
+4,Male,28,Sales Representative,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea,140,90,20s,<7h (Low),<5k,High,False,True,False,Arizona
+5,Male,28,Sales Representative,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea,140,90,20s,<7h (Low),<5k,High,False,True,False,Arizona
+6,Male,28,Software Engineer,5.9,4,30,8,Obese,140/90,85,3000,Insomnia,140,90,20s,<7h (Low),<5k,High,False,True,False,Arizona
+7,Male,29,Teacher,6.3,6,40,7,Obese,140/90,82,3500,Insomnia,140,90,20s,<7h (Low),<5k,High,False,True,False,California
+8,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,20s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,California
+9,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,20s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,California
+10,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,20s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Colorado
+11,Male,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,None,120,80,20s,<7h (Low),7.5k-10k,High,False,True,True,Colorado
+12,Male,29,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,20s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Colorado
+13,Male,29,Doctor,6.1,6,30,8,Normal,120/80,70,8000,None,120,80,20s,<7h (Low),7.5k-10k,High,False,True,True,Florida
+14,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,None,120,80,20s,<7h (Low),7.5k-10k,High,False,True,True,Florida
+15,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,None,120,80,20s,<7h (Low),7.5k-10k,High,False,True,True,Florida
+16,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,None,120,80,20s,<7h (Low),7.5k-10k,High,False,True,True,Georgia
+17,Female,29,Nurse,6.5,5,40,7,Normal,132/87,80,4000,Sleep Apnea,132,87,20s,<7h (Low),<5k,High,False,True,False,Georgia
+18,Male,29,Doctor,6.0,6,30,8,Normal,120/80,70,8000,Sleep Apnea,120,80,20s,<7h (Low),7.5k-10k,High,False,True,True,Georgia
+19,Female,29,Nurse,6.5,5,40,7,Normal,132/87,80,4000,Insomnia,132,87,20s,<7h (Low),<5k,High,False,True,False,Illinois
+20,Male,30,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Illinois
+21,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Illinois
+22,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Indiana
+23,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Indiana
+24,Male,30,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Indiana
+25,Male,30,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Iowa
+26,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Iowa
+27,Male,30,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Iowa
+28,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Kansas
+29,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Kansas
+30,Male,30,Doctor,7.9,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Kansas
+31,Female,30,Nurse,6.4,5,35,7,Normal,130/86,78,4100,Sleep Apnea,130,86,30s,<7h (Low),<5k,High,False,True,False,Kentucky
+32,Female,30,Nurse,6.4,5,35,7,Normal,130/86,78,4100,Insomnia,130,86,30s,<7h (Low),<5k,High,False,True,False,Kentucky
+33,Female,31,Nurse,7.9,8,75,4,Normal,117/76,69,6800,None,117,76,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Kentucky
+34,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Louisiana
+35,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Louisiana
+36,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Louisiana
+37,Male,31,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Maryland
+38,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Maryland
+39,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Maryland
+40,Male,31,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Massachusetts
+41,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Massachusetts
+42,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Massachusetts
+43,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Michigan
+44,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Michigan
+45,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Michigan
+46,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Minnesota
+47,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Minnesota
+48,Male,31,Doctor,7.8,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Minnesota
+49,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Missouri
+50,Male,31,Doctor,7.7,7,75,6,Normal,120/80,70,8000,Sleep Apnea,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Missouri
+51,Male,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Low,True,False,True,Missouri
+52,Male,32,Engineer,7.5,8,45,3,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Low,True,False,True,Nevada
+53,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Nevada
+54,Male,32,Doctor,7.6,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Nevada
+55,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,New Jersey
+56,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,New Jersey
+57,Male,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,New Jersey
+58,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,New York
+59,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,New York
+60,Male,32,Doctor,7.7,7,75,6,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,New York
+61,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,North Carolina
+62,Male,32,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,North Carolina
+63,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,North Carolina
+64,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Ohio
+65,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Ohio
+66,Male,32,Doctor,6.2,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Ohio
+67,Male,32,Accountant,7.2,8,50,6,Normal,118/76,68,7000,None,118,76,30s,7-8h (Recommended),5k-7.5k,Medium,True,False,False,Oklahoma
+68,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,Insomnia,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Oklahoma
+69,Female,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,None,128,85,30s,<7h (Low),5k-7.5k,Medium,False,False,False,Oklahoma
+70,Female,33,Scientist,6.2,6,50,6,Overweight,128/85,76,5500,None,128,85,30s,<7h (Low),5k-7.5k,Medium,False,False,False,Oregon
+71,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Oregon
+72,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Oregon
+73,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Pennsylvania
+74,Male,33,Doctor,6.1,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Pennsylvania
+75,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Pennsylvania
+76,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,South Carolina
+77,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,South Carolina
+78,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,South Carolina
+79,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Tennessee
+80,Male,33,Doctor,6.0,6,30,8,Normal,125/80,72,5000,None,125,80,30s,<7h (Low),5k-7.5k,High,False,True,False,Tennessee
+81,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,131,86,30s,<7h (Low),5k-7.5k,High,False,True,False,Tennessee
+82,Female,34,Scientist,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea,131,86,30s,<7h (Low),5k-7.5k,High,False,True,False,Texas
+83,Male,35,Teacher,6.7,7,40,5,Overweight,128/84,70,5600,None,128,84,30s,<7h (Low),5k-7.5k,Medium,False,False,False,Texas
+84,Male,35,Teacher,6.7,7,40,5,Overweight,128/84,70,5600,None,128,84,30s,<7h (Low),5k-7.5k,Medium,False,False,False,Texas
+85,Male,35,Software Engineer,7.5,8,60,5,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Utah
+86,Female,35,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Utah
+87,Male,35,Engineer,7.2,8,60,4,Normal,125/80,65,5000,None,125,80,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Utah
+88,Male,35,Engineer,7.2,8,60,4,Normal,125/80,65,5000,None,125,80,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Virginia
+89,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None,125,80,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Virginia
+90,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None,125,80,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Virginia
+91,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None,125,80,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Washington
+92,Male,35,Engineer,7.3,8,60,4,Normal,125/80,65,5000,None,125,80,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Washington
+93,Male,35,Software Engineer,7.5,8,60,5,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Washington
+94,Male,35,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea,135,88,30s,7-8h (Recommended),<5k,Medium,True,False,False,Wisconsin
+95,Female,36,Accountant,7.2,8,60,4,Normal,115/75,68,7000,Insomnia,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wisconsin
+96,Female,36,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wisconsin
+97,Female,36,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+98,Female,36,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+99,Female,36,Teacher,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+100,Female,36,Teacher,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+101,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+102,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+103,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+104,Male,36,Teacher,6.6,5,35,7,Overweight,129/84,74,4800,Sleep Apnea,129,84,30s,<7h (Low),<5k,High,False,True,False,Wyoming
+105,Female,36,Teacher,7.2,8,60,4,Normal,115/75,68,7000,Sleep Apnea,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+106,Male,36,Teacher,6.6,5,35,7,Overweight,129/84,74,4800,Insomnia,129,84,30s,<7h (Low),<5k,High,False,True,False,Wyoming
+107,Female,37,Nurse,6.1,6,42,6,Overweight,126/83,77,4200,None,126,83,30s,<7h (Low),<5k,Medium,False,False,False,Wyoming
+108,Male,37,Engineer,7.8,8,70,4,Normal,120/80,68,7000,None,120,80,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+109,Male,37,Engineer,7.8,8,70,4,Normal,120/80,68,7000,None,120,80,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+110,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+111,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+112,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+113,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+114,Male,37,Lawyer,7.4,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+115,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+116,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+117,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+118,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+119,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+120,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+121,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+122,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+123,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+124,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+125,Female,37,Accountant,7.2,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+126,Female,37,Nurse,7.5,8,60,4,Normal,120/80,70,8000,None,120,80,30s,7-8h (Recommended),7.5k-10k,Low,True,False,True,Wyoming
+127,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+128,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+129,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+130,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+131,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+132,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+133,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+134,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+135,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+136,Male,38,Lawyer,7.3,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+137,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+138,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+139,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+140,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+141,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+142,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+143,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+144,Female,38,Accountant,7.1,8,60,4,Normal,115/75,68,7000,None,115,75,30s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+145,Male,38,Lawyer,7.1,8,60,5,Normal,130/85,68,8000,Sleep Apnea,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+146,Female,38,Lawyer,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea,135,88,30s,7-8h (Recommended),<5k,Medium,True,False,False,Wyoming
+147,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,Insomnia,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+148,Male,39,Engineer,6.5,5,40,7,Overweight,132/87,80,4000,Insomnia,132,87,30s,<7h (Low),<5k,High,False,True,False,Wyoming
+149,Female,39,Lawyer,6.9,7,50,6,Normal,128/85,75,5500,None,128,85,30s,<7h (Low),5k-7.5k,Medium,False,False,False,Wyoming
+150,Female,39,Accountant,8.0,9,80,3,Normal,115/78,67,7500,None,115,78,30s,>8h (High),7.5k-10k,Low,True,False,True,Wyoming
+151,Female,39,Accountant,8.0,9,80,3,Normal,115/78,67,7500,None,115,78,30s,>8h (High),7.5k-10k,Low,True,False,True,Wyoming
+152,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+153,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+154,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+155,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+156,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+157,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+158,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+159,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+160,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+161,Male,39,Lawyer,7.2,8,60,5,Normal,130/85,68,8000,None,130,85,30s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+162,Female,40,Accountant,7.2,8,55,6,Normal,119/77,73,7300,None,119,77,40s,7-8h (Recommended),5k-7.5k,Medium,True,False,False,Wyoming
+163,Female,40,Accountant,7.2,8,55,6,Normal,119/77,73,7300,None,119,77,40s,7-8h (Recommended),5k-7.5k,Medium,True,False,False,Wyoming
+164,Male,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+165,Male,40,Lawyer,7.9,8,90,5,Normal,130/85,68,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+166,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,Insomnia,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+167,Male,41,Engineer,7.3,8,70,6,Normal,121/79,72,6200,None,121,79,40s,7-8h (Recommended),5k-7.5k,Medium,True,False,False,Wyoming
+168,Male,41,Lawyer,7.1,7,55,6,Overweight,125/82,72,6000,None,125,82,40s,7-8h (Recommended),5k-7.5k,Medium,True,False,False,Wyoming
+169,Male,41,Lawyer,7.1,7,55,6,Overweight,125/82,72,6000,None,125,82,40s,7-8h (Recommended),5k-7.5k,Medium,True,False,False,Wyoming
+170,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+171,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+172,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+173,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+174,Male,41,Lawyer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+175,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+176,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+177,Male,41,Lawyer,7.6,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+178,Male,42,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+179,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+180,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+181,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+182,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+183,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+184,Male,42,Lawyer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+185,Female,42,Teacher,6.8,6,45,7,Overweight,130/85,78,5000,Sleep Apnea,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+186,Female,42,Teacher,6.8,6,45,7,Overweight,130/85,78,5000,Sleep Apnea,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+187,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+188,Male,43,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+189,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+190,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+191,Female,43,Teacher,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+192,Male,43,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+193,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+194,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+195,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+196,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+197,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+198,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+199,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+200,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+201,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+202,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Insomnia,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+203,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Insomnia,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+204,Male,43,Engineer,6.9,6,47,7,Normal,117/76,69,6800,None,117,76,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+205,Male,43,Engineer,7.6,8,75,4,Overweight,122/80,68,6800,None,122,80,40s,7-8h (Recommended),5k-7.5k,Low,True,False,False,Wyoming
+206,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+207,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+208,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+209,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+210,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+211,Male,43,Engineer,7.7,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+212,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+213,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+214,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+215,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+216,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+217,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+218,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,None,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+219,Male,43,Engineer,7.8,8,90,5,Normal,130/85,70,8000,Sleep Apnea,130,85,40s,7-8h (Recommended),7.5k-10k,Medium,True,False,True,Wyoming
+220,Male,43,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,Sleep Apnea,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+221,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+222,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+223,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+224,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+225,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+226,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+227,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+228,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+229,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+230,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+231,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+232,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+233,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+234,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+235,Female,44,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+236,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+237,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+238,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+239,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+240,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+241,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+242,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+243,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+244,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+245,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+246,Female,44,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+247,Male,44,Salesperson,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+248,Male,44,Engineer,6.8,7,45,7,Overweight,130/85,78,5000,Insomnia,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+249,Male,44,Salesperson,6.4,6,45,7,Overweight,130/85,72,6000,None,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+250,Male,44,Salesperson,6.5,6,45,7,Overweight,130/85,72,6000,None,130,85,40s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+251,Female,45,Teacher,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Medium,False,False,False,Wyoming
+252,Female,45,Teacher,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Medium,False,False,False,Wyoming
+253,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+254,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+255,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+256,Female,45,Teacher,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+257,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+258,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+259,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+260,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+261,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+262,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,None,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+263,Female,45,Teacher,6.6,7,45,4,Overweight,135/90,65,6000,None,135,90,40s,<7h (Low),5k-7.5k,Low,False,False,False,Wyoming
+264,Female,45,Manager,6.9,7,55,5,Overweight,125/82,75,5500,None,125,82,40s,<7h (Low),5k-7.5k,Medium,False,False,False,Wyoming
+265,Male,48,Doctor,7.3,7,65,5,Obese,142/92,83,3500,Insomnia,142,92,40s,7-8h (Recommended),<5k,Medium,True,False,False,Wyoming
+266,Female,48,Nurse,5.9,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,40s,<7h (Low),10k+,High,False,True,True,Wyoming
+267,Male,48,Doctor,7.3,7,65,5,Obese,142/92,83,3500,Insomnia,142,92,40s,7-8h (Recommended),<5k,Medium,True,False,False,Wyoming
+268,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,None,140,95,40s,<7h (Low),10k+,High,False,True,True,Wyoming
+269,Female,49,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,40s,<7h (Low),10k+,High,False,True,True,Wyoming
+270,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,40s,<7h (Low),10k+,High,False,True,True,Wyoming
+271,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,40s,<7h (Low),10k+,High,False,True,True,Wyoming
+272,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,40s,<7h (Low),10k+,High,False,True,True,Wyoming
+273,Female,49,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,40s,<7h (Low),10k+,High,False,True,True,Wyoming
+274,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,40s,<7h (Low),10k+,High,False,True,True,Wyoming
+275,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,40s,<7h (Low),10k+,High,False,True,True,Wyoming
+276,Female,49,Nurse,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,40s,<7h (Low),10k+,High,False,True,True,Wyoming
+277,Male,49,Doctor,8.1,9,85,3,Obese,139/91,86,3700,Sleep Apnea,139,91,40s,>8h (High),<5k,Low,True,False,False,Wyoming
+278,Male,49,Doctor,8.1,9,85,3,Obese,139/91,86,3700,Sleep Apnea,139,91,40s,>8h (High),<5k,Low,True,False,False,Wyoming
+279,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Insomnia,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+280,Female,50,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+281,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,None,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+282,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+283,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+284,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+285,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+286,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+287,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+288,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+289,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+290,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+291,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+292,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+293,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+294,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+295,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+296,Female,50,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+297,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+298,Female,50,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+299,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+300,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+301,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+302,Female,51,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+303,Female,51,Nurse,7.1,7,55,6,Normal,125/82,72,6000,None,125,82,50s,7-8h (Recommended),5k-7.5k,Medium,True,False,False,Wyoming
+304,Female,51,Nurse,6.0,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+305,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+306,Female,51,Nurse,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea,140,95,50s,<7h (Low),10k+,High,False,True,True,Wyoming
+307,Female,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia,130,85,50s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+308,Female,52,Accountant,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia,130,85,50s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+309,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,130,85,50s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+310,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,130,85,50s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+311,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,130,85,50s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+312,Female,52,Accountant,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia,130,85,50s,<7h (Low),5k-7.5k,High,False,True,False,Wyoming
+313,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+314,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+315,Female,52,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+316,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,Insomnia,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+317,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+318,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+319,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+320,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+321,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+322,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+323,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+324,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+325,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+326,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+327,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+328,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+329,Female,53,Engineer,8.3,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+330,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+331,Female,53,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+332,Female,53,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+333,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+334,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+335,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+336,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+337,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+338,Female,54,Engineer,8.4,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+339,Female,54,Engineer,8.5,9,30,3,Normal,125/80,65,5000,None,125,80,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+340,Female,55,Nurse,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+341,Female,55,Nurse,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+342,Female,56,Doctor,8.2,9,90,3,Normal,118/75,65,10000,None,118,75,50s,>8h (High),10k+,Low,True,False,True,Wyoming
+343,Female,56,Doctor,8.2,9,90,3,Normal,118/75,65,10000,None,118,75,50s,>8h (High),10k+,Low,True,False,True,Wyoming
+344,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,None,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+345,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+346,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+347,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+348,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+349,Female,57,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+350,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+351,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+352,Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+353,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+354,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+355,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+356,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+357,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+358,Female,58,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+359,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,None,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+360,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,None,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+361,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+362,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+363,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+364,Female,59,Nurse,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+365,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+366,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+367,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+368,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+369,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+370,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+371,Female,59,Nurse,8.0,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+372,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+373,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
+374,Female,59,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea,140,95,50s,>8h (High),5k-7.5k,Low,True,False,False,Wyoming
